@@ -8,7 +8,7 @@ SECRET_KEY = 'django-insecure-%t@$psw4#bc2p=cxymy4^1(+n_vag29j%d0u*7he=+s#pqbq)a
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'yourphotoyourfame.pythonanywhere.com',
+    'fileuploader.pythonanywhere.com',
     '127.0.0.1',
     'localhost',
 ]
@@ -82,3 +82,4 @@ MEDIA_ROOT = BASE_DIR / 'media'
 
 DATA_UPLOAD_MAX_MEMORY_SIZE = 10485760
 FILE_UPLOAD_MAX_MEMORY_SIZE = 10485760
+
